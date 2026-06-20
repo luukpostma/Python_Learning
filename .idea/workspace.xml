@@ -5,19 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="550b5ba6-61f1-498a-b59e-299861aa402c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/01_PCC/ch03/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_PCC/ch03/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_PCC/ch03/03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PCC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PCC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/100daysofpython/day1/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_100_days_of_python/day1/01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch01/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_PCC/ch01/01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/00.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_PCC/ch02/00.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_PCC/ch02/01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/02.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_PCC/ch02/02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/03.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_PCC/ch02/03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/04.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_PCC/ch02/04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/05.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_PCC/ch02/05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/06.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_PCC/ch02/06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/07.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_PCC/ch02/07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/08.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_PCC/ch02/08.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/09.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_PCC/ch02/09.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "luukpostma"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/luukpostma/Python_Learning.git",
+    "accountId": "b439ed38-b57c-427e-8235-749737bd3376"
+  }
+}]]></component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.5990744571303575" />
@@ -93,9 +98,9 @@
       <entry key="W1" value="402.29880061218057" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="3FO8C6OsBhQ3SOYwhsoqn85cNM8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -121,13 +126,14 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.completion.inline",
+    "settings.editor.selected.configurable": "editor.preferences.completion.popup",
     "settings.editor.splitter.proportion": "0.24872579",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
@@ -153,6 +159,7 @@
       <option name="presentableId" value="Default" />
       <updated>1781934624722</updated>
       <workItem from="1781934625729" duration="3947000" />
+      <workItem from="1781963719636" duration="594000" />
     </task>
     <servers />
   </component>
@@ -160,15 +167,18 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PCC$01.coverage" NAME="01 Coverage Results" MODIFIED="1781935096878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02" />
-    <SUITE FILE_PATH="coverage/PCC$00.coverage" NAME="00 Coverage Results" MODIFIED="1781937566818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02" />
-    <SUITE FILE_PATH="coverage/PCC$04.coverage" NAME="04 Coverage Results" MODIFIED="1781936308759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02" />
-    <SUITE FILE_PATH="coverage/PCC$06.coverage" NAME="06 Coverage Results" MODIFIED="1781936852547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02" />
-    <SUITE FILE_PATH="coverage/PCC$08.coverage" NAME="08 Coverage Results" MODIFIED="1781937664796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02" />
+    <SUITE FILE_PATH="coverage/Python_Learning$03.coverage" NAME="03 Coverage Results" MODIFIED="1781964247179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_PCC/ch03" />
     <SUITE FILE_PATH="coverage/PCC$02.coverage" NAME="02 Coverage Results" MODIFIED="1781935144245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02" />
-    <SUITE FILE_PATH="coverage/PCC$05.coverage" NAME="05 Coverage Results" MODIFIED="1781936560815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02" />
-    <SUITE FILE_PATH="coverage/PCC$07.coverage" NAME="07 Coverage Results" MODIFIED="1781937357694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02" />
+    <SUITE FILE_PATH="coverage/PCC$08.coverage" NAME="08 Coverage Results" MODIFIED="1781937664796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02" />
+    <SUITE FILE_PATH="coverage/PCC$04.coverage" NAME="04 Coverage Results" MODIFIED="1781936308759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02" />
     <SUITE FILE_PATH="coverage/PCC$03.coverage" NAME="03 Coverage Results" MODIFIED="1781936262423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02" />
+    <SUITE FILE_PATH="coverage/Python_Learning$01.coverage" NAME="01 Coverage Results" MODIFIED="1781963908854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_PCC/ch03" />
+    <SUITE FILE_PATH="coverage/PCC$07.coverage" NAME="07 Coverage Results" MODIFIED="1781937357694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02" />
+    <SUITE FILE_PATH="coverage/PCC$00.coverage" NAME="00 Coverage Results" MODIFIED="1781937566818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02" />
+    <SUITE FILE_PATH="coverage/Python_Learning$02.coverage" NAME="02 Coverage Results" MODIFIED="1781964007797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_PCC/ch03" />
+    <SUITE FILE_PATH="coverage/PCC$06.coverage" NAME="06 Coverage Results" MODIFIED="1781936852547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02" />
+    <SUITE FILE_PATH="coverage/PCC$01.coverage" NAME="01 Coverage Results" MODIFIED="1781935096878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02" />
     <SUITE FILE_PATH="coverage/PCC$09.coverage" NAME="09 Coverage Results" MODIFIED="1781937937886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02" />
+    <SUITE FILE_PATH="coverage/PCC$05.coverage" NAME="05 Coverage Results" MODIFIED="1781936560815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02" />
   </component>
 </project>
