@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="550b5ba6-61f1-498a-b59e-299861aa402c" name="Changes" comment="" />
+    <list default="true" id="550b5ba6-61f1-498a-b59e-299861aa402c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/100daysofpython/day1/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_100_days_of_python/day1/01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch01/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_PCC/ch01/01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02/00.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_PCC/ch02/00.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_PCC/ch02/01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02/02.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_PCC/ch02/02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02/03.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_PCC/ch02/03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02/04.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_PCC/ch02/04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02/05.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_PCC/ch02/05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02/06.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_PCC/ch02/06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02/07.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_PCC/ch02/07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02/08.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_PCC/ch02/08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02/09.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_PCC/ch02/09.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,23 +36,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000056921081" />
-      <entry key="MS500" value="1.1190250659184409" />
-      <entry key="S2" value="5.487264890307305" />
-      <entry key="S5" value="13.188525926691307" />
-      <entry key="S10" value="22.372580618928612" />
-      <entry key="S30" value="57.95033302640788" />
-      <entry key="S60" value="89.10397794178316" />
-      <entry key="M2" value="117.82083558076076" />
-      <entry key="M5" value="146.5825262212891" />
-      <entry key="M10" value="163.63391457719322" />
-      <entry key="M15" value="177.31880602739537" />
-      <entry key="M30" value="210.99236680888853" />
-      <entry key="H1" value="246.90706036733536" />
-      <entry key="H2" value="273.9700534087627" />
-      <entry key="H4" value="290.6898085396034" />
-      <entry key="D1" value="306.5846941618066" />
-      <entry key="W1" value="309.5070367782564" />
+      <entry key="MS100" value="1.5990744571303575" />
+      <entry key="MS500" value="2.543151052697045" />
+      <entry key="S2" value="2.8727789145833427" />
+      <entry key="S5" value="2.9479665461764366" />
+      <entry key="S10" value="2.9737882524026245" />
+      <entry key="S30" value="3.0059499063348745" />
+      <entry key="S60" value="4.420751665614852" />
+      <entry key="M2" value="20.220837100500173" />
+      <entry key="M5" value="88.68383861269484" />
+      <entry key="M10" value="155.04790412091728" />
+      <entry key="M15" value="192.7751927660098" />
+      <entry key="M30" value="256.2626272972009" />
+      <entry key="H1" value="311.87368376902873" />
+      <entry key="H2" value="351.44036901704646" />
+      <entry key="H4" value="375.46284419150555" />
+      <entry key="D1" value="398.14065282500405" />
+      <entry key="W1" value="402.29883448983884" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -60,23 +74,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9592641249254437" />
-      <entry key="MS500" value="1.1102372992533363" />
-      <entry key="S2" value="5.479316548028629" />
-      <entry key="S5" value="13.18002313968562" />
-      <entry key="S10" value="22.364621087154198" />
-      <entry key="S30" value="57.94304567112706" />
-      <entry key="S60" value="89.09834850914416" />
-      <entry key="M2" value="117.81709288241571" />
-      <entry key="M5" value="146.58058586443732" />
-      <entry key="M10" value="163.6318965361418" />
-      <entry key="M15" value="177.31599577304084" />
-      <entry key="M30" value="210.9886331768642" />
-      <entry key="H1" value="246.9038537296538" />
-      <entry key="H2" value="273.9679356782734" />
-      <entry key="H4" value="290.6885898100134" />
-      <entry key="D1" value="306.5844656407671" />
-      <entry key="W1" value="309.50700346447456" />
+      <entry key="MS100" value="1.5621130321830983" />
+      <entry key="MS500" value="2.5304674407583367" />
+      <entry key="S2" value="2.8691453100192152" />
+      <entry key="S5" value="2.9464708617569073" />
+      <entry key="S10" value="2.9730331554203504" />
+      <entry key="S30" value="3.0056945903593655" />
+      <entry key="S60" value="4.420531934446102" />
+      <entry key="M2" value="20.220220273904452" />
+      <entry key="M5" value="88.68269346618965" />
+      <entry key="M10" value="155.04635660774397" />
+      <entry key="M15" value="192.77294888172833" />
+      <entry key="M30" value="256.25934701926576" />
+      <entry key="H1" value="311.87066567683183" />
+      <entry key="H2" value="351.43829852305527" />
+      <entry key="H4" value="375.4616289210613" />
+      <entry key="D1" value="398.1404211075313" />
+      <entry key="W1" value="402.29880061218057" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -119,6 +133,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/PCC" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -133,7 +152,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1781934624722</updated>
-      <workItem from="1781934625729" duration="3460000" />
+      <workItem from="1781934625729" duration="3947000" />
     </task>
     <servers />
   </component>
